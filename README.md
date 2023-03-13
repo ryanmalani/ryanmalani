@@ -6,8 +6,8 @@
 
 Or, connect with me on LinkedIn or through my website:
 
-[![website](./img/globe-light.svg)](https://ryanmalani.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://ryanmalani.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://www.ryanmalani.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://www.ryanmalani.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/ryanmalani#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ryanmalani#gh-dark-mode-only)
