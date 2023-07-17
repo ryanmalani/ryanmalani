@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryanmalani
 - 👀 I’m interested in web services, computer vision & autonomous driving
-- 🌱 I’m currently learning django, flask, React.js, Next.js, TailwindCSS
+- 🌱 I’m currently learning django, flask, fastapi, Next.js, TailwindCSS
 - 💞️ I’m looking to collaborate on web services and python projects
 - 📫 How to reach me: shoot me an email! ryanmalani24@gmail.com
 
