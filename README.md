@@ -4,23 +4,42 @@
 - 💞️ I’m looking to collaborate on web services and python projects
 - 📫 How to reach me: shoot me an email! ryanmalani24@gmail.com
 
-Or, connect with me on LinkedIn or through my website:
+Or, connect with me through my website or on LinkedIn:
+<br/>
 
-[![website](./img/globe-light.svg)](https://www.ryanmalani.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://www.ryanmalani.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/ryanmalani#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ryanmalani#gh-dark-mode-only)
-&nbsp;&nbsp;
+<picture>
+  <a href="www.ryanmalani.com" target="_blank">
+    <source media="(prefers-color-scheme: dark)" srcset="./img/globe-light.svg">
+    <img alt="Website icon light." src="./img/globe-light.svg" height=30px width=30px>
+  </a>
+</picture>
+<picture>
+  <a href="www.ryanmalani.com" target="_blank">
+    <source media="(prefers-color-scheme: light)" srcset="./img/globe-dark.svg">
+    <img alt="Website icon dark." src="./img/globe-dark.svg" height=30px width=30px>
+  </a>
+</picture>
+<picture>
+  <a href="https://linkedin.com/in/ryanmalani" target="_blank">
+    <source media="(prefers-color-scheme: dark)" srcset="./img/linkedin-light.svg">
+    <img alt="LinkedIn icon light." src="./img/linkedin-light.svg" height=30px width=30px>
+  </a>
+</picture>
+<picture>
+  <a href="https://linkedin.com/in/ryanmalani" target="_blank">
+    <source media="(prefers-color-scheme: light)" srcset="./img/linkedin-dark.svg">
+    <img alt="LinkedIn icon dark." src="./img/linkedin-dark.svg" height=30px width=30px>
+  </a>
+</picture>
+
+<br/>
 
 Languages, Tools, and Technologies I use:
 
-[<img align="left" alt="Visual Studio Code" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:4px;" />](https://code.visualstudio.com)
+[<picture><img align="left" alt="Visual Studio Code" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:4px;" /></picture>](https://code.visualstudio.com)
 [<img align="left" alt="Git" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:4px;" />](https://git-scm.com)
-[<img align="left" alt="GitHub" width="24px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:4px;" />](https://github.com#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="24px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:4px;" />](https://github.com#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="24px" src="./img/terminal-light.svg" />](https://support.apple.com/guide/terminal/welcome/mac#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="24px" src="./img/terminal-dark.svg" />](https://support.apple.com/guide/terminal/welcome/mac#gh-dark-mode-only)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"><img align="left" alt="GitHub" width="24px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:4px;" /></picture>](https://github.com)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./img/terminal-light.svg"><img align="left" alt="Terminal" width="24px" src="./img/terminal-light.svg" /></picture>](https://support.apple.com/guide/terminal/welcome/mac#gh-light-mode-only)
 [<img align="left" alt="Arduino" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="padding-right:4px;" />](https://arduino.cc)
 [<img align="left" alt="RaspberryPi" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:4px;" />](https://raspberrypi.com)
 [<img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:4px;" />](https://python.org)
