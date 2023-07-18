@@ -34,7 +34,6 @@ Languages, Tools, and Technologies I use:
 [<img align="left" alt="Node.js" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:5px;" />](https://nodejs.org/en/docs/)
 [<img align="left" alt="React.js" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:5px;" />](https://reactjs.org)
 [<img align="left" alt="Next.js" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:5px;" />](https://nextjs.org)
-[<img align="left" alt="JavaScript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:5px;" />](https://devdocs.io/javascript/)
 [<img align="left" alt="TypeScript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:5px;" />](https://typescriptlang.org)
 [<img align="left" alt="TailwindCSS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="" />](https://tailwindcss.com)
 
