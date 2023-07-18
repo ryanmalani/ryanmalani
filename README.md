@@ -26,6 +26,8 @@ Languages, Tools, and Technologies I use:
 [<img align="left" alt="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:5px;" />](https://python.org)
 [<img align="left" alt="Java" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:5px;" />](https://docs.oracle.com/en/java/)
 [<img align="left" alt="C++" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:5px;" />](https://learn.microsoft.com/en-us/cpp/?view=msvc-170)
+[<img align="left" alt="TypeScript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:5px;" />](https://typescriptlang.org)
+[<img align="left" alt="TailwindCSS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="" />](https://tailwindcss.com)
 [<img align="left" alt="TensorFlow" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:5px;" />](https://www.tensorflow.org)
 [<img align="left" alt="PostgreSQL" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:5px;" />](https://www.postgresql.org)
 [<img align="left" alt="MySQL" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:5px;" />](https://www.mysql.com)
@@ -33,9 +35,6 @@ Languages, Tools, and Technologies I use:
 [<img align="left" alt="Spring" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:5px;" />](https://spring.io)
 [<img align="left" alt="Node.js" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:5px;" />](https://nodejs.org/en/docs/)
 [<img align="left" alt="React.js" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:5px;" />](https://reactjs.org)
-[<img align="left" alt="Next.js" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:5px;" />](https://nextjs.org)
-[<img align="left" alt="TypeScript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:5px;" />](https://typescriptlang.org)
-[<img align="left" alt="TailwindCSS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="" />](https://tailwindcss.com)
 
 <br />
 <br />
