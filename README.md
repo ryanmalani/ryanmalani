@@ -7,27 +7,16 @@
 Or, connect with me through my website or on LinkedIn:
 <br/>
 
+
 <picture>
   <a href="www.ryanmalani.com" target="_blank">
-    <source media="(prefers-color-scheme: dark)" srcset="./img/globe-light.svg">
-    <img alt="Website icon light." src="./img/globe-light.svg" height=30px width=30px>
-  </a>
-</picture>
-<picture>
-  <a href="www.ryanmalani.com" target="_blank">
-    <source media="(prefers-color-scheme: light)" srcset="./img/globe-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./img/globe-dark.svg">
     <img alt="Website icon dark." src="./img/globe-dark.svg" height=30px width=30px>
   </a>
 </picture>
 <picture>
   <a href="https://linkedin.com/in/ryanmalani" target="_blank">
-    <source media="(prefers-color-scheme: dark)" srcset="./img/linkedin-light.svg">
-    <img alt="LinkedIn icon light." src="./img/linkedin-light.svg" height=30px width=30px>
-  </a>
-</picture>
-<picture>
-  <a href="https://linkedin.com/in/ryanmalani" target="_blank">
-    <source media="(prefers-color-scheme: light)" srcset="./img/linkedin-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./img/linkedin-dark.svg">
     <img alt="LinkedIn icon dark." src="./img/linkedin-dark.svg" height=30px width=30px>
   </a>
 </picture>
