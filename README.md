@@ -27,7 +27,6 @@ Languages, Tools, and Technologies I use:
 
 [<picture><img align="left" alt="Visual Studio Code" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:4px;" /></picture>](https://code.visualstudio.com)
 [<img align="left" alt="Git" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:4px;" />](https://git-scm.com)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"><img align="left" alt="GitHub" width="24px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:4px;" /></picture>](https://github.com)
 [<picture><source media="(prefers-color-scheme: dark)" srcset="./img/terminal-dark.svg"><img align="left" alt="Terminal" width="24px" src="./img/terminal-dark.svg" style="padding-right:4px;"/></picture>](https://support.apple.com/guide/terminal/welcome/mac)
 [<img align="left" alt="Arduino" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="padding-right:4px;" />](https://arduino.cc)
 [<img align="left" alt="RaspberryPi" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:4px;" />](https://raspberrypi.com)
@@ -37,6 +36,7 @@ Languages, Tools, and Technologies I use:
 [<img align="left" alt="TypeScript" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:4px;" />](https://typescriptlang.org)
 [<img align="left" alt="TailwindCSS" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="" />](https://tailwindcss.com)
 [<img align="left" alt="TensorFlow" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:4px;" />](https://www.tensorflow.org)
+[<img align="left" alt="PyTorch" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="padding-right:4px;" />](https://www.pytorch.org)
 [<img align="left" alt="PostgreSQL" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:4px;" />](https://www.postgresql.org)
 [<img align="left" alt="MySQL" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:4px;" />](https://www.mysql.com)
 [<img align="left" alt="Django" width="24px" src="./img/django.png" />](https://www.djangoproject.com)
