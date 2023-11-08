@@ -9,7 +9,7 @@ Or, connect with me through my website or on LinkedIn:
 
 
 <picture>
-  <a href="www.ryanmalani.com" target="_blank">
+  <a href="https://www.ryanmalani.com" target="_blank">
     <source media="(prefers-color-scheme: dark)" srcset="./img/globe-dark.svg">
     <img alt="Website icon dark." src="./img/globe-dark.svg" height=30px width=30px>
   </a>
