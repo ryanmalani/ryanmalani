@@ -34,7 +34,7 @@ Languages, Tools, and Technologies I use:
 [<img align="left" alt="Java" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:4px;" />](https://docs.oracle.com/en/java/)
 [<img align="left" alt="C++" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:4px;" />](https://learn.microsoft.com/en-us/cpp/?view=msvc-170)
 [<img align="left" alt="TypeScript" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:4px;" />](https://typescriptlang.org)
-[<img align="left" alt="TailwindCSS" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="" />](https://tailwindcss.com)
+[<img align="left" alt="TailwindCSS" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" style="" />](https://tailwindcss.com)
 [<img align="left" alt="TensorFlow" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:4px;" />](https://www.tensorflow.org)
 [<img align="left" alt="PyTorch" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="padding-right:4px;" />](https://www.pytorch.org)
 [<img align="left" alt="PostgreSQL" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:4px;" />](https://www.postgresql.org)
